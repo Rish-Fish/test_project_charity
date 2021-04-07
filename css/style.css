@@ -6,7 +6,7 @@
 }
 @font-face {
   font-family: 'Ļato', sans-serif;
-  src: url('/fonts/Lato/Lato-Bold.ttf') format('truetype');
+  src: url('./fonts/Lato/Lato-Bold.ttf') format('truetype');
   font-weight: bold;
   font-style: normal;
 }
