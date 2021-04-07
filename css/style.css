@@ -1,12 +1,12 @@
 @font-face {
   font-family: 'Lato', sans-serif;;
-  src: url('/fonts/Lato/Lato-Regular.ttf') format('truetype');
+  src: url('./fonts/Lato/Lato-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'Ļato', sans-serif;
-  src: url('/fonts/Lato/Lato-Bold.ttf') format('truetype');
+  src: url('./fonts/Lato/Lato-Bold.ttf') format('truetype');
   font-weight: bold;
   font-style: normal;
 }
@@ -59,7 +59,7 @@ h1,h2,h3,p {
   object-fit: cover;
   width: 100%;
   background-color: #11181d;
-  background-image: url(./img/Hero.png);
+  background-image: url(../img/Hero.png);
   background-size: cover;
   background-position: center;
   font-weight: 500;
